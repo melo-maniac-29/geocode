@@ -22,7 +22,7 @@ export default function ContactSection() {
           </a>
 
           <a
-            href="https://geocodeindia.netlify.app"
+            href="https://geocodeindia.vercel.app"
             target="_blank"
             rel="noopener noreferrer"
             className="bg-gradient-to-br from-red-500/10 to-transparent border border-red-500/30 rounded-lg p-8 text-center hover:border-red-500/60 transition-all duration-300 group"
