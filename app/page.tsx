@@ -299,16 +299,16 @@ export default function Home() {
               <h3 className="text-2xl font-bold text-white mb-4">CEK Pre-Round</h3>
               <div className="text-4xl font-bold text-red-500 mb-4">₹50</div>
               <div className="text-gray-400 mb-6">per team</div>
-              <GlowButton href="https://forms.google.com/cek-pre-round">
+              <GlowButton href="https://forms.gle/j5VL1r9AodEe1jja9">
                 Register CEK Team
               </GlowButton>
             </div>
 
             <div className="bg-gradient-to-br from-red-500/10 to-transparent border border-red-500/30 rounded-lg p-8">
               <h3 className="text-2xl font-bold text-white mb-4">Inter-College</h3>
-              <div className="text-4xl font-bold text-red-500 mb-4">₹200</div>
-              <div className="text-gray-400 mb-6">per participant</div>
-              <GlowButton href="https://forms.google.com/inter-college">
+              <div className="text-4xl font-bold text-red-500 mb-4">₹800</div>
+              <div className="text-gray-400 mb-6">per Team</div>
+              <GlowButton href="https://forms.gle/tPsH5rP8sLD3KcMR6">
                 Register Team
               </GlowButton>
             </div>
