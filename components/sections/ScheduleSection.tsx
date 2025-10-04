@@ -2,8 +2,8 @@ import { Clock, Code, Presentation, Trophy } from 'lucide-react';
 
 const Schedule = () => {
   const day1Schedule = [
-    { time: '02:00 pm', event: 'Registration & Check-in', icon: <Clock size={24} /> },
-    { time: '02:15 AM', event: 'Opening Ceremony & Keynote', icon: <Presentation size={24} /> },
+    { time: '01:00 pm', event: 'Registration & Check-in', icon: <Clock size={24} /> },
+    { time: '02:00 AM', event: 'Opening Ceremony & Keynote', icon: <Presentation size={24} /> },
     { time: '02:30 AM', event: 'Hackathon Begins', icon: <Code size={24} /> },
     { time: '06:00 PM', event: 'Evening Snacks', icon: <Clock size={24} /> },
     { time: '07:00 PM', event: 'Mentor Check-ins', icon: <Presentation size={24} /> },
